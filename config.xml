@@ -1,0 +1,8 @@
+<this>
+    <is>
+        <an>
+            <example>${test}</example>
+            <example-encrypted>${test-encrypted}</example-encrypted>
+        </an>
+    </is>
+</this>
